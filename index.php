@@ -1,3 +1,3 @@
 <?php
-include_once("vitoshindex.html");
+include_once("index.html");
 ?>
